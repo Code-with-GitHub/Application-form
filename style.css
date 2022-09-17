@@ -1,0 +1,41 @@
+ h2{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:SlateBlue;
+  text-align: center; 
+  text-decoration: underline
+}
+
+table{
+  font-family: Calibri; 
+  color:white; 
+  font-size: 16px; 
+  font-style: normal;
+  font-weight: bold;
+  text-align: center; 
+  background-color: #561ef0; 
+  border-collapse: collapse; 
+  border: 2px solid rgb(0, 60, 128)
+}
+table.inner{
+  border: 0px
+}
+input[type=text],
+input[type=email],
+input[type=number] 
+{
+  width: 50%;
+ padding: 6px 12px;
+ margin: 5px 0;
+ box-sizing: border-box;
+}
+input[type=submit],
+input[type=reset] 
+{
+width: 15%;
+padding: 8px 12px;
+margin: 5px 0;
+box-sizing: border-box;
+}
