@@ -39,3 +39,9 @@ padding: 8px 12px;
 margin: 5px 0;
 box-sizing: border-box;
 }
+form {
+    display :block;
+    margin-top: 0em;
+    margin: bottom 7em;;
+    margin: block end 2px;
+}
